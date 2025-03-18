@@ -68,7 +68,6 @@ Run the script to generate and visualize different speech representations.
   
   MFCC
   
-  Feature Extraction for ASR
 
 **🛠️ Features**
 
