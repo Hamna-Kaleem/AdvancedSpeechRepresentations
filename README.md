@@ -1,4 +1,4 @@
-**🎵 Speech Signal Representations**
+**🎵 Advanced Speech Signal Representations**
 
 **📌 Overview**
 
