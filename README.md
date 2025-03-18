@@ -73,6 +73,9 @@ Run the script to generate and visualize different speech representations.
 **🛠️ Features**
 
 ✔️ Compare raw waveform vs. advanced features
+
 ✔️ Easy-to-use visualization tools
+
 ✔️ Helps in speech recognition & noise reduction
+
 ✔️ Ideal for machine learning and AI applications
